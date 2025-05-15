@@ -1,0 +1,9 @@
+sentence-transformers
+chromadb
+transformers
+langchain 
+langchain-community
+langchain_pinecone
+pinecone
+dotenv
+os
